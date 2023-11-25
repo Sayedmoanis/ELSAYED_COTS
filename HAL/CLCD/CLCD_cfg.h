@@ -1,6 +1,7 @@
 #ifndef CLCD_CFG_H
 #define CLCD_CFG_H
 
+
 /*configure the lcd bit mode, options are :		1- FOUR_BIT
  * 												2- EIGHT_BIT
  * 	*/
